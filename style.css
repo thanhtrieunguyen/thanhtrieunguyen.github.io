@@ -1,0 +1,23 @@
+.danh-lam {
+    width: 700px;
+}
+
+.tieu-de {
+    margin-bottom: -45px;
+}
+.row .image {
+    width: 25%;
+    float: left;
+}
+
+.row .image {
+    width: 50%;
+    height: 80px;
+    float: left;
+}
+
+
+.description {
+    float: right;
+    width: 71%;
+}
